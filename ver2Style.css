@@ -250,6 +250,7 @@ body{
   @media(min-width: 661px) and (max-width: 1199px) {
     main{
         margin: 2em 6em;
+        column-gap: 3em;
     }
 
     .container{
